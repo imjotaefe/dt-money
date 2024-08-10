@@ -6,7 +6,6 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { TransactionContext } from "../../../../contexts/TransactionsContext";
 import { useContextSelector } from "use-context-selector";
 
-
 const searchFormSchema = zod.object({
   query: zod.string(),
 })

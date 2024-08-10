@@ -74,9 +74,6 @@ export function NewTransactionModal(){
               required
               {...register('category')} 
             />
-
-
-            
             <Controller 
               control={control}
               name="type"
