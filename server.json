@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Produto vendido",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "carro",
+      "type": "outcome",
+      "category": "Compras",
+      "price": 200,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    }
+  ]
+}
